@@ -3,5 +3,5 @@ Studies repository
 
 
 # Summary
-[Modulos](modulos)
-[Step-by-step](step-by-step.md)
+- [Modulos](modulos)
+- [Step-by-step](step-by-step.md)
